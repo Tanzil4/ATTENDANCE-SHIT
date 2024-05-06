@@ -1,0 +1,97 @@
+@media only screen and (max-width: 958px){
+   
+    .container{
+        height: 25rem;
+    }
+    .main-container h1{
+        font-size: 20px;
+    }
+
+    .main{
+        width: 60vw;
+    }
+}
+
+
+@media only screen and (max-width: 694px){
+   
+    .container{
+        height: 30rem;
+    }
+    .main-container h1{
+        font-size: 14px;
+    }
+
+    .main{
+        width: 70vw;
+    }
+
+    #mypara{
+        font-size: 19px;
+    }
+}
+@media only screen and (max-width: 490px){
+   
+    .container{
+        height: 32rem;
+    }
+    .main-container h1{
+        font-size: 14px;
+    }
+
+    .main{
+        width: 85vw;
+    }
+
+    #mypara{
+        font-size: 12px;
+    }
+    .myh1{
+        font-size: 20px;
+    }
+    #inp{
+        width: 14rem;
+        margin-top: 20px;
+font-size: 16px;
+font-weight: 900;
+    }
+    #btn{
+        width: 4rem;
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+}
+@media only screen and (max-width: 300px){
+   
+    .container{
+        height: 25rem;
+    }
+    .main-container h1{
+        font-size: 15px;
+        
+    }
+
+    .main{
+        width: 85vw;
+        padding: 5px;
+    }
+
+    #mypara{
+        font-size: 10px;
+    }
+    .myh1{
+        font-size: 15px;
+    }
+    #inp{
+        width: 9rem;
+        margin-top: 29px;
+font-size: 16px;
+font-weight: 900;
+    }
+    #btn{
+        width: 3rem;
+        font-size: 10px;
+        font-weight: 800;
+        margin-bottom: 10px;
+    }
+}
